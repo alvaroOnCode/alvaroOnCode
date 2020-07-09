@@ -12,6 +12,6 @@ Three years later I moved to Atexis Spain, in order to lead a dedicated IT team 
 
 Shortly after completing the Airbus project, I felt curious about the MEVN stack (MongoDB, Express, Vue and Node); I created some personal side projects with the explicit purpose of learning these JavaScript trends. With that new skillset, I felt ready to put it to good use, at Emergya.
 
-I love programming, but I’ve always had a soft spot for Architecture. I dedicate time to reading, sketching and creating interactive archviz (architectural visualizations) and renders. But mostly, I open my eyes and look, and admire... and that, I guess, is the reason I discovered photography.
+I love programming, but I’ve always had a soft spot for Architecture. I dedicate time to reading, sketching and creating interactive archviz (architectural visualizations) and renders. But mostly, I open my eyes and look, and admire... and that, I guess, is the reason I discovered [photography](https://www.instagram.com/alvarooncode/).
 
 Now you know a bit about me. Let's talk!
