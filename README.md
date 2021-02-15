@@ -10,7 +10,7 @@ At Cyan Animática, I switched from Air to Unity to meet the demands of Augmente
 
 Three years later I moved to Atexis Spain, in order to lead a dedicated IT team in design and development of a complete eLearning platform for Airbus. We created both wrapper and content (technical interactive simulations to help learn and practice complex aircrafts systems).
 
-Shortly after completing the Airbus project, I felt curious about the MEVN stack (MongoDB, Express, Vue and Node); I created some personal side projects with the explicit purpose of learning these JavaScript trends. With that new skillset, I felt ready to put it to good use, at Emergya.
+Shortly after completing the Airbus project, I felt curious about the MEVN stack (MongoDB, Express, Vue and Node); I created some personal side projects with the explicit purpose of learning these JavaScript trends. With that new skillset, I felt ready to put it to good use, at Emergya and later at Freepik Company.
 
 I love programming, but I’ve always had a soft spot for Architecture. I dedicate time to reading, sketching and creating interactive archviz (architectural visualizations) and renders. But mostly, I open my eyes and look, and admire... and that, I guess, is the reason I discovered [photography](https://www.instagram.com/alvarooncode/).
 
