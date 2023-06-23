@@ -1,6 +1,6 @@
 # 🧑‍💻 Álvaro Saavedra Díaz 🧑‍💻 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-I am a Software Developer, based in Seville (Spain). Currently, I work on International Business Development and Projects Department at Emergya, as Full Stack JavaScript Developer. We migrate old-fashioned websites to newer technologies for international brands, all over the world.
+I am a Software Developer, based in Seville (Spain). Currently, I work in Freepik Labs at Freepik, as Frontend Developer. I contribute to build an amazing online editor called [Wepik](https://wepik.com/), check it out!.
 
 Although, I have spent the last four years working with JavaScript, my professional trajectory is not limited to the browser.
 
